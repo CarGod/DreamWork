@@ -11,6 +11,9 @@
 
 -----
 
+Github: [学习路线](https://github.com/Zeusw/DreamWork/wiki/%E5%AD%A6%E4%B9%A0%E8%B7%AF%E5%BE%84)
+车神博客：[学习路线](http://www.cheshen.wiki/categories/%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/)
+
 
 ## 声明
 我们是公益组织，不会收取任何费用
