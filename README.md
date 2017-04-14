@@ -7,12 +7,12 @@
 > 创建时间: 2017-03-10 13:39:13 
 >
 > 地点: 深圳 
-
+>
+> 交流QQ群：300421872
 
 -----
 
 Github: [学习路线](https://github.com/Zeusw/DreamWork/wiki/%E5%AD%A6%E4%B9%A0%E8%B7%AF%E5%BE%84)
-车神博客：[学习路线](http://www.cheshen.wiki/categories/%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/)
 
 
 ## 声明
